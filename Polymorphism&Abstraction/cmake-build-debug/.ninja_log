@@ -1,0 +1,6 @@
+# ninja log v5
+10	229	7016311045412891	CMakeFiles/C__.dir/Employee.cpp.obj	4febb35321bd5262
+5	231	7016311045422891	CMakeFiles/C__.dir/Manager.cpp.obj	16aa17a038e9e63
+14	233	7016311045432892	CMakeFiles/C__.dir/Executive.cpp.obj	2426c5b266ac3a2e
+0	235	7016311045462900	CMakeFiles/C__.dir/main.cpp.obj	96f9b65215fb736a
+235	312	7016311046202890	C__.exe	1a8574125f34c06c
